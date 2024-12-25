@@ -133,13 +133,16 @@ def get_resolution_value(resolution_str):
     """
     Get resolution value from string
     """
-    pattern = r"(\d+)[xX*](\d+)"
-    match = re.search(pattern, resolution_str)
-    if match:
-        width, height = map(int, match.groups())
-        return width * height
-    else:
-        return 0
+    try:
+        if resolution_str:
+            pattern = r"(\d+)[xX*](\d+)"
+            match = re.search(pattern, resolution_str)
+            if match:
+                width, height = map(int, match.groups())
+                return width * height
+    except:
+        pass
+    return 0
 
 
 def get_total_urls(info_list, ipv_type_prefer, origin_type_prefer):
@@ -168,11 +171,6 @@ def get_total_urls(info_list, ipv_type_prefer, origin_type_prefer):
 
         if origin_prefer_bool and (origin not in origin_type_prefer):
             continue
-
-        if config.open_filter_resolution and resolution:
-            resolution_value = get_resolution_value(resolution)
-            if resolution_value < config.min_resolution_value:
-                continue
 
         pure_url, _, info = url.partition("$")
         if not info:
