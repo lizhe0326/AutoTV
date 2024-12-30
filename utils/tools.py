@@ -13,7 +13,7 @@ from time import time
 
 import requests
 from bs4 import BeautifulSoup
-from flask import render_template_string, send_file
+from flask import send_file, make_response
 
 import utils.constants as constants
 from utils.config import config
@@ -406,10 +406,9 @@ def get_result_file_content(show_content=False, file_type=None):
             content = file.read()
     else:
         content = constants.waiting_tip
-    return render_template_string(
-        "<head><link rel='icon' href='{{ url_for('static', filename='images/favicon.ico') }}' type='image/x-icon'></head><pre>{{ content }}</pre>",
-        content=content,
-    )
+    response = make_response(content)
+    response.mimetype = 'text/plain'
+    return response
 
 
 def remove_duplicates_from_tuple_list(tuple_list, seen, flag=None, force_str=None):
