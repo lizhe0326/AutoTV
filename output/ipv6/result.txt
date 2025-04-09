@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-09 06:43:00,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+2025-04-09 18:47:21,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
@@ -106,6 +106,7 @@ CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 广东卫视,http://yc.myds.me:35455/itv/1000000001000014176.m3u8?cdn=ystenlive$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+香港卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 浙江卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 浙江卫视,http://zhfivel02.cztv.com/channel01/1080p.m3u8?auth_key=2524708799-0-0-adde67b1b344fdd5e512f30a4ae31915$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 浙江卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010070$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
@@ -800,6 +801,7 @@ CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 安多卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8#@http://cm-wshls.homecdn.com/live/5a296.dlv#@http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8#@http://cm-wshls.homecdn.com/live/5a296.m3u8#rtmp://liveout.xntv.tv/a65jur/96iln2$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+西宁新闻综合,rtmp://liveout.xntv.tv/a65jur/96iln2$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 青海综合,http://lmt.scqstv.com/live1/live1.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 
@@ -862,6 +864,7 @@ CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+香港卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
@@ -1020,8 +1023,8 @@ JJ斗地主,https://live.iill.top/bilibili/22021983$订阅源-IPv6-1920x1080-IPv
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 浙江少儿,https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 七龙珠,https://live.iill.top/huya/11601966$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 火影忍者,https://live.iill.top/douyu/1997723$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
