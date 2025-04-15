@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-04-15 06:36:36
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-04-15 18:38:09
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
@@ -539,6 +539,8 @@ http://php.jdshipin.com:8880/chudian.php?id=gdty$订阅源-IPv6-1920x1080-IPv6-1
 http://cdn2.163189.xyz/live/gdty/stream.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="☘️广东频道",广东体育
 http://cdn2.132.us.kg/live/gdty/stream.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="☘️广东频道",广东体育
+https://tv.cdn.com.mp/live/gdty/stream.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="☘️广东频道",广东卫视
 http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视.png" group-title="☘️广东频道",广东卫视
@@ -1601,6 +1603,8 @@ http://php.17186.eu.org/phtv/fhhk.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-I
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🌊港·澳·台",凤凰香港
+https://cdn6.163189.xyz/live/fhhk/stream.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视.png" group-title="🌊港·澳·台",凤凰卫视
 http://cdn.132.us.kg/live/fhzw/stream.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰卫视.png" group-title="🌊港·澳·台",凤凰卫视
@@ -1797,6 +1801,8 @@ http://php.jdshipin.com:8880/chudian.php?id=gdty$订阅源-IPv6-1920x1080-IPv6-1
 http://cdn2.163189.xyz/live/gdty/stream.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="🏀体育频道",广东体育
 http://cdn2.132.us.kg/live/gdty/stream.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东体育.png" group-title="🏀体育频道",广东体育
+https://tv.cdn.com.mp/live/gdty/stream.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="🏀体育频道",五星体育
 http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="🏀体育频道",五星体育
@@ -1914,9 +1920,9 @@ https://qiniup-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源-IPv
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="🪁动画频道",浙江少儿
 http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="🪁动画频道",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="🪁动画频道",浙江少儿
 http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="🪁动画频道",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北少儿科教.png" group-title="🪁动画频道",河北少儿科教
 https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8$订阅源-IPv6-1920x1080-IPv6-1920x1080-IPv6-1920x1080
 #EXTINF:-1 tvg-name="七龙珠" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/七龙珠.png" group-title="🪁动画频道",七龙珠
